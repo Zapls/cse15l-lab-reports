@@ -12,9 +12,9 @@ Youtube
 Github png
 ![Image](https://th.bing.com/th/id/OIP.Sfgbqcg35rCru0YB-IQwxgHaD4?pid=ImgDet&rs=1)
 ---
-*Item1
-*Item2
-*Item3
+- Item1
+- Item2
+- Item3
 ---
 `String newLine = "Inline Code"`
 ---
